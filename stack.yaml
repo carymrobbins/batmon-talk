@@ -1,0 +1,7 @@
+resolver: lts-13.5
+
+packages:
+- batmon/
+
+extra-deps:
+- TypeCompose-0.9.14

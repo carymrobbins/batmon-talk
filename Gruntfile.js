@@ -139,7 +139,8 @@ module.exports = function(grunt) {
 				files: root.map(path => path + '/*.html')
 			},
 			markdown: {
-				files: root.map(path => path + '/*.md')
+				files: root.map(path => path + '/slides.md'),
+				tasks: 'gen-slides'
 			},
 			options: {
 				livereload: true
@@ -149,8 +150,13 @@ module.exports = function(grunt) {
 		retire: {
 			js: [ 'js/reveal.js', 'lib/js/*.js', 'plugin/**/*.js' ],
 			node: [ '.' ]
-		}
+		},
 
+		shell: {
+			gen_slides: {
+				command: './gen-slides'
+			}
+		}
 	});
 
 	// Dependencies
@@ -163,6 +169,7 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks( 'grunt-autoprefixer' );
 	grunt.loadNpmTasks( 'grunt-retire' );
 	grunt.loadNpmTasks( 'grunt-sass' );
+  grunt.loadNpmTasks( 'grunt-shell' );
 	grunt.loadNpmTasks( 'grunt-zip' );
 	
 	// Default task
@@ -184,9 +191,10 @@ module.exports = function(grunt) {
 	grunt.registerTask( 'package', [ 'default', 'zip' ] );
 
 	// Serve presentation locally
-	grunt.registerTask( 'serve', [ 'connect', 'watch' ] );
+	grunt.registerTask( 'serve', [ 'shell:gen_slides', 'connect', 'watch' ] );
 
 	// Run tests
 	grunt.registerTask( 'test', [ 'jshint', 'qunit' ] );
 
+	grunt.registerTask( 'gen-slides', [ 'shell:gen_slides' ] );
 };

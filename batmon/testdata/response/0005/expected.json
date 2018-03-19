@@ -1,0 +1,252 @@
+{
+  "31bb9d34-7838-4619-aecb-08cde8cffdc3": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "4f08a691-b202-48f9-957e-5464b1d4f184": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "e1e6f6e9-1051-4d9c-b977-674318cd3e16": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "ac03c159-9b04-46d7-a6c8-5f565ab7add4": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "fd0a2697-bf65-430f-8c84-b28120845e1e": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "9d88823a-42c6-4d87-93a0-ed0aceedad94": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "f39cbc86-347c-4530-9cd0-692014a2d4a7": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "66c58a10-46b9-48ff-81a7-27f5605b92f9": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "f39d1571-9976-4e7c-a4bd-91217f0ddb7a": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "19f7bc5d-590d-4bcc-b6b1-01d12ac4f015": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "eb2048eb-884c-4f7b-a91d-b69393e27a8c": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "d221d718-d8fc-4dca-9dc4-14d6e2f08382": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "1fbfb2fa-f195-426e-92e5-6c7ce16f6797": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "cd0588e8-09b6-4322-b04a-2d4af11e84fb": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "add47c01-bd5b-49cc-a112-8ec9b043d088": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "db6d2e37-63fd-41f2-822a-6f148925beb4": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "4d2b35ad-c84f-4a96-9bc8-2a3334cc2d87": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "ed1251b9-f28a-4c10-9726-bd3b98740c4f": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "8648dc5f-ccbb-4a6c-b8ca-c0ce88992e56": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "c2f23edd-bbc8-4197-84ec-bef4f16b7df5": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "b2e7dae8-819d-48f6-9db6-27ab3038f64b": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "77dc9c65-abda-4550-973b-9a4e8a69c662": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "b83745b7-3933-490f-a305-899583e38a3f": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "284ae242-0374-4aba-8a6a-b53f4d239599": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "5d408fcd-f8b9-4993-9100-ea5e8713459f": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "5d866095-e878-4bc3-8566-29904b02a6d8": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "f0ef9c61-f2f0-4e67-b8d7-c34794974b67": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "0895d4e3-cee0-4ffb-9dfe-0d3f9c55d7e8": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "bcae00e6-79d8-474e-91df-677d60ffc079": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "999d9822-891f-49fc-aab3-0a116beaed2f": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "e94279eb-48b1-4371-843c-97ed53720e9e": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "d283fafa-2d6f-4efe-93df-4f33e32225c5": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "4c50bb53-8e4c-4767-8fdb-0cc0518afaef": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "0d4da420-225b-41c4-a9f4-393e2c068187": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "d576b0b7-21ab-4cd1-bb68-9dd837df22d9": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "794597da-b996-4d30-98a1-512c1ada7086": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "7acd27a5-2859-46d1-8c51-70f48f575c72": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "ffc05bc7-9b8d-4b63-b2d3-ca1e87a0d170": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "fdd3abdb-d11a-42d9-bb97-14ea79407ed5": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "bd24c566-5c78-4fc6-b949-80eb3f22d867": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "c0de5f1a-e67e-401e-b58d-5d42b70ed87a": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "39593f8f-6bdc-43c7-a523-829fb812410b": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "90e818fa-c0ce-45f3-8974-86bd3f20d751": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "23993d5f-7253-41c4-90e6-130a2c8ae485": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "cd5f2231-3205-4f09-a12d-c018731374be": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "1b96c2d2-deda-41a9-b987-b9898d1f63a2": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "8f3126ec-f6fb-484f-9cc2-86f1c9218a5c": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "3ecf3fd0-77af-4f35-be08-24c45ea0e587": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "dbf60d54-3003-4e2c-a0ae-a5eab57a64fa": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  },
+  "f596b65a-8966-4163-8e5d-6afbf900f4d0": {
+    "status": 200,
+    "headers": [["ETag", "\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\""], ["Content-Type", "application/json; charset=UTF-8"], ["Date", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Expires", "Tue, 19 Dec 2017 00:00:37 GMT"], ["Cache-Control", "private, max-age=0"], ["Content-Length", "308"]],
+    "body": "{\n \"kind\": \"calendar#calendar\",\n \"etag\": \"\\\"ULsH1YPfrSsaWJsYynxh4efocZw/TH2s5f_ZFzFKb5PICTUvPyr-zko\\\"\",\n \"id\": \"cary@estatico.io\",\n \"summary\": \"cary@estatico.io\",\n \"timeZone\": \"America/Chicago\",\n \"conferenceProperties\": {\n  \"allowedConferenceSolutionTypes\": [\n   \"eventNamedHangout\"\n  ]\n }\n}\n"
+  }
+}

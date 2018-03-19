@@ -1,0 +1,108 @@
+name:                batmon
+version:             0.0.0.0
+github:              "carymrobbins/batching-monads-talk"
+license:             MIT
+author:              "Cary Robbins"
+maintainer:          "cary@estatico.io"
+copyright:           "2019 Cary Robbins"
+
+extra-source-files:
+- README.md
+
+description:         Please see the README on GitHub at <https://github.com/carymrobbins/batching-monads-talk#readme>
+
+dependencies:
+- base
+- TypeCompose
+- aeson
+- attoparsec
+- binary
+- bytestring
+- case-insensitive
+- containers
+- dependent-sum
+- exceptions
+- free
+- generic-lens
+- http-client
+- http-client-tls
+- http-types
+- lens
+- monad-logger
+- mtl
+- natural-transformation
+- split
+- text
+- time
+- transformers
+- tz
+- unordered-containers
+- uuid
+
+default-extensions:
+- AllowAmbiguousTypes
+- ConstraintKinds
+- DataKinds
+- DefaultSignatures
+- DeriveAnyClass
+- DeriveGeneric
+- DerivingStrategies
+- DerivingVia
+- DuplicateRecordFields
+- FlexibleContexts
+- FlexibleInstances
+- GADTs
+- GeneralizedNewtypeDeriving
+- KindSignatures
+- LambdaCase
+- NamedFieldPuns
+- NoImplicitPrelude
+- OverloadedLabels
+- OverloadedStrings
+- RankNTypes
+- RecordWildCards
+- ScopedTypeVariables
+- StandaloneDeriving
+- TemplateHaskell
+- TupleSections
+- TypeApplications
+- TypeFamilies
+- TypeOperators
+- UndecidableInstances
+
+ghc-options:
+- -Wall
+- -Wincomplete-uni-patterns
+
+library:
+  source-dirs: src
+
+executables:
+  batmon-it:
+    main:                Driver.hs
+    source-dirs:         it
+    ghc-options:
+    - -threaded
+    - -rtsopts
+    - -with-rtsopts=-N
+    dependencies:
+    - batmon
+
+    - HUnit
+    - hspec
+    - random
+
+tests:
+  batmon-test:
+    main:                Driver.hs
+    source-dirs:         test
+    ghc-options:
+    - -threaded
+    - -rtsopts
+    - -with-rtsopts=-N
+    dependencies:
+    - batmon
+
+    - file-embed
+    - filepath
+    - hspec

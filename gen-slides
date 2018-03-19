@@ -1,0 +1,92 @@
+#!/usr/bin/env node
+
+const fs = require('fs');
+const _ = require('./js/underscore-min.js');
+
+var inCodeBlock = false;
+var out =
+  '<!--\n' +
+  '****    THIS IS A GENERATED FILE, DO NOT EDIT!    ****\n' +
+  '**** CHANGES SHOULD BE MADE IN slides.md INSTEAD! ****\n' +
+  '-->\n';
+
+// Escape HTML in code blocks except for spans to allow for fragment/mark.
+// The trailing dots are needed due to js' clunky indent rules.
+const escapeCodeBlock = s =>
+  _.escape(s).
+    // Special escaping symbols to be escaped first
+    // Special escapes for span/fragment stuff.
+    replace(/&lt;frag&gt;/g, '<span class="fragment">').
+    replace(/&lt;frag (\d+)&gt;/g, '<span class="fragment" data-fragment-index="$1">').
+    replace(/&lt;mark&gt;/g, '<span class="fragment highlight-red">').
+    replace(/&lt;mark (\d+)&gt;/g, '<span class="fragment highlight-red" data-fragment-index="$1">').
+    replace(/&lt;mark (\w+)&gt;/g, '<span class="fragment highlight-$1">').
+    replace(/&lt;mark (\w+) (\d+)&gt;/g, '<span class="fragment highlight-$1" data-fragment-index="$2">').
+    replace(/&lt;gray&gt;/g, '<span class="gray-code">').
+    replace(/&lt;\/(frag|mark|gray)&gt;/g, '</span>').
+
+    // Replace symbols with html codes to avoid
+    // rendering them as markdown.
+
+    // Except for these, ecaping these breaks everything
+    //replace(/\&/g, '&amp;').
+    //replace(/\;/g, '&#59;').
+    //replace(/\</g, '&#60;').
+    //replace(/\=/g, '&#61;').
+    //replace(/\>/g, '&#62;').
+    //replace(/\#/g, '&#35;').
+    //replace(/\-/g, '&#45;').
+ 
+    // Ok onto the ones we'll escape
+    replace(/\!/g, '&#33;').
+    replace(/\$/g, '&#36;').
+    replace(/\%/g, '&#37;').
+    replace(/\(/g, '&#40;').
+    replace(/\)/g, '&#41;').
+    replace(/\*/g, '&#42;').
+    replace(/\+/g, '&#43;').
+    replace(/\,/g, '&#44;').
+    replace(/\./g, '&#46;').
+    replace(/\:/g, '&#58;').
+    replace(/\?/g, '&#63;').
+    replace(/\@/g, '&#64;').
+    replace(/\^/g, '&#94;').
+    replace(/\_/g, '&#95;').
+    replace(/\`/g, '&#96;'). //` <- fixes syntax highlight in vim :(
+    replace(/\{/g, '&#123;').
+    replace(/\|/g, '&#124;').
+    replace(/\}/g, '&#125;').
+    replace(/\~/g, '&#126;').
+    // toString() is unnecessary but makes it easier to
+    // just do trailing dots on every line above.
+    toString();
+
+// Expand non-code block <frag> elements
+const expandMagicTags = s =>
+  s.replace(/<frag>/g, '<span class="fragment">').
+    replace(/<frag (\d+)>/g, '<span class="fragment" data-fragment-index="$1">').
+    replace(/<\/frag>/g, '</span>')
+    ;
+
+fs.readFileSync('./slides.md').toString().split('\n').forEach(line => {
+  var matcher = /^```(.*)$/.exec(line);
+  if (matcher === null) {
+    if (inCodeBlock) {
+      out += escapeCodeBlock(line) + '\n';
+    } else {
+      out += expandMagicTags(line) + '\n';
+    }
+    return;
+  }
+  if (inCodeBlock) {
+    inCodeBlock = false;
+    out += '</code></pre>\n'
+    return;
+  }
+  inCodeBlock = true;
+  out += '<pre><code data-noescape data-trim class="' + matcher[1] + '">\n';
+});
+
+fs.writeFile('slides.gen.md', out, err => { if (err) console.log(err); });
+
+console.log('Generated slides.gen.md');
